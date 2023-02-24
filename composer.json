@@ -1,0 +1,9 @@
+{
+    "name": "noah/blog-mvc",
+    "autoload": {
+        "psr-4": {
+            "Blog\\": "src/"
+        }
+    },
+    "require": {}
+}
